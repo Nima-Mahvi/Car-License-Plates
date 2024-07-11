@@ -19,7 +19,7 @@ This project aims to detect and predict car license plate numbers using various 
 
 ## Usage:
 
-1. Download the necessary data file from [this link](https://www.dropbox.com/scl/fi/4wxtzmgcm7yi66zge554u/complete_digits_data.csv?rlkey=jmje04sp07kyvc2h41t9bk1d5&st=j7i8id5r&dl=1) (207 MB).
+1. Download the necessary data file from [this link](https://www.dropbox.com/scl/fi/4wxtzmgcm7yi66zge554u/complete_digits_data.csv?rlkey=jmje04sp07kyvc2h41t9bk1d5&st=j7i8id5r&dl=1) (200 MB).
 2. Run main.py in your Python environment.
 3. Select an image containing a car license plate.
 4. Press the 'OK' button to start processing.
