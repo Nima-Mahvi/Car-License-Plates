@@ -17,8 +17,7 @@ import requests
 import os
 import pandas as pd
 
-class download:
-    def download_file(url, destination):
+def download_file(url, destination):
         response = requests.get(url, stream=True)
         if response.status_code == 200:
             with open(destination, 'wb') as file:
